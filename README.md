@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EMing-H
-- 👀 It is so hard to introduce myself
-- 🌱 I am so shy
-- 💞️ haha
+- 👀 The harder you work, the more luck you have.
+- 💞️ xixi
 
 <!---
 EMing-H/EMing-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
